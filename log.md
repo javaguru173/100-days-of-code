@@ -1,30 +1,43 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: July 16, 2021
+##### (intentionally left blank)
+
+**Today's Progress**: Began Dart tutorials via Code With Andrea 
+
+**Thoughts:** I already began "learning" Flutter and Dart a week or so prior to beginning this project. I am glad I updated my RAM and SSD for my laptop and install all of the packages as well. I find that Coding With Andrea as a pretty helpful guide to learn the basics of Dart language.
+
+**Link to work:** [Coding With Andrea: Dart Beginners Course]
+(https://www.youtube.com/playlist?list=PLNnAcB93JKV9YAl4QDygDEMfplrt5uUUx)
+
+### Day 2: July 17, 2021
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued Coding With Andrea's Dart Beginners Course
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I learned how to make a simple rock/paper/scissors game and definitely noticed the syntax differences between Dart and and Python. I really need to get my vscode to run properly -_____- 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Coding With Andrea: Rock/Paper/Scissors]
+(https://www.youtube.com/watch?v=XoZ01mY-cUg&list=PLNnAcB93JKV9YAl4QDygDEMfplrt5uUUx&index=6)
 
 
-### Day 1: June 27, Monday
+### Day 3: July 18, 2021
+##### (intentionally left blank)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Continued Dart tutorials 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** More tutorials, more fundamentals. It's ok because I have to somewhat unlearn what I know in Python. Remember to add semi-colons.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Coding With Andrea: Dart Beginners Course]
+(https://www.youtube.com/playlist?list=PLNnAcB93JKV9YAl4QDygDEMfplrt5uUUx)
+
+
+### Day 4: July 19, 2021
+##### (intentionally left blank)
+
+**Today's Progress**: Began Dart tutorials via Code With Andrea 
+
+**Thoughts:** Completed all of the free tutorials avaliable on Code With Andrea's youtube channel. Did purchase the full course. I do feel this challenge is very great at holding myself accountable. I am excited to complete this challenge. Also, I am learning the lay of the land for Git Hub
+
+**Link to work:** [Coding With Andrea]
+(https://www.udemy.com/course/complete-dart-guide/)
