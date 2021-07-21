@@ -41,3 +41,12 @@
 
 **Link to work:** [Coding With Andrea]
 (https://www.udemy.com/course/complete-dart-guide/)
+
+
+Day 5: July 20, 2021
+(intentionally left blank)
+Today's Progress: Continued Dart tutorials via Code With Andrea
+
+Thoughts: Learned more about Lists, Functions, Maps the whole nine. 
+
+Link to work: [Coding With Andrea] (https://www.udemy.com/course/complete-dart-guide/)
