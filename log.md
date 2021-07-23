@@ -63,7 +63,7 @@
 **Link to work:** [Coding With Andrea] (https://www.udemy.com/course/complete-dart-guide/)
 
 
-### Day 7: July 21, 2021
+### Day 7: July 22, 2021
 ##### (intentionally left blank)
 
 **Today's Progress**:Began a mini project of creating a weather app via DEVSPOT
