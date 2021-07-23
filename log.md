@@ -61,3 +61,13 @@
 **Thoughts:** Began the chapter on Classes. It seems like I'm getting the grasp of understanding how Classes work in Dart vs other languages where I struggled in the past. Also completed this at work
 
 **Link to work:** [Coding With Andrea] (https://www.udemy.com/course/complete-dart-guide/)
+
+
+### Day 7: July 21, 2021
+##### (intentionally left blank)
+
+**Today's Progress**:Began a mini project of creating a weather app via DEVSPOT
+
+**Thoughts:** I wanted to change things up, it's only been a week since I started the challenge, but wanted to take on a small project. I had to find the correct version since Dart/Flutter is constantly changing. A little bit stressful because I had to redo the entire code, but I got things started.
+
+**Link to work:** [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.youtube.com/watch?v=ks8u-n04Sgg)
