@@ -43,10 +43,21 @@
 (https://www.udemy.com/course/complete-dart-guide/)
 
 
-Day 5: July 20, 2021
-(intentionally left blank)
-Today's Progress: Continued Dart tutorials via Code With Andrea
+### Day 5: July 20, 2021
+##### (intentionally left blank)
 
-Thoughts: Learned more about Lists, Functions, Maps the whole nine. 
+**Today's Progress**:Continued Dart tutorials via Code With Andrea
 
-Link to work: [Coding With Andrea] (https://www.udemy.com/course/complete-dart-guide/)
+**Thoughts:** Learned more about Lists, Functions, Maps the whole nine. 
+
+**Link to work:** [Coding With Andrea] (https://www.udemy.com/course/complete-dart-guide/)
+
+
+### Day 6: July 21, 2021
+##### (intentionally left blank)
+
+**Today's Progress**:Continued Dart tutorials via Code With Andrea
+
+**Thoughts:** Began the chapter on Classes. It seems like I'm getting the grasp of understanding how Classes work in Dart vs other languages where I struggled in the past. Also completed this at work
+
+**Link to work:** [Coding With Andrea] (https://www.udemy.com/course/complete-dart-guide/)
