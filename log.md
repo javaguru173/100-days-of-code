@@ -71,3 +71,13 @@
 **Thoughts:** I wanted to change things up, it's only been a week since I started the challenge, but wanted to take on a small project. I had to find the correct version since Dart/Flutter is constantly changing. A little bit stressful because I had to redo the entire code, but I got things started.
 
 **Link to work:** [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.youtube.com/watch?v=ks8u-n04Sgg)
+
+
+### Day 8: July 23, 2021
+##### (intentionally left blank)
+
+**Today's Progress** :Continued a mini project of creating a weather app via DEVSPOT
+
+**Thoughts**: Following the how-to videos is really helping me identify errors/bugs in my code. There are some things I wish I could ask the content creator directly, but I will have to research it independently for the time being.
+
+Link to work: [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.youtube.com/watch?v=ks8u-n04Sgg)
