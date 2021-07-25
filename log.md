@@ -81,3 +81,13 @@
 **Thoughts**: Following the how-to videos is really helping me identify errors/bugs in my code. There are some things I wish I could ask the content creator directly, but I will have to research it independently for the time being.
 
 Link to work: [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.youtube.com/watch?v=ks8u-n04Sgg)
+
+
+### Day 9: July 24, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Finished DEVSPOT's weather app tutorial!!!
+
+**Thoughts**: OMFG COMPLETED!!!!! Found some bugs/errors in my code that stopped me from running. But omg, it feels great to finish it and play around with vscode's/flutter's hot reloading feature. Definitley going to clone this codebase and use it to play around with it some more in the future. Also, started super late lol.
+
+Link to work: [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.youtube.com/watch?v=ks8u-n04Sgg)
