@@ -91,3 +91,13 @@ Link to work: [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.
 **Thoughts**: OMFG COMPLETED!!!!! Found some bugs/errors in my code that stopped me from running. But omg, it feels great to finish it and play around with vscode's/flutter's hot reloading feature. Definitley going to clone this codebase and use it to play around with it some more in the future. Also, started super late lol.
 
 Link to work: [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.youtube.com/watch?v=ks8u-n04Sgg)
+
+
+### Day 10: July 25, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Dart tutorials by Coding With Andrea
+
+**Thoughts**: Back on the tutorials, this time we moved away from DartPad and onto VSCode, which is great because I am know understanding it in a coding environment. The topic is regardin advanced classes. So the meat and potatoes of how classes behave in Dart/Flutter.
+
+Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
