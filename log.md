@@ -101,3 +101,13 @@ Link to work: [DEVSPOT: Weather App In Flutter (Part 1 - UI) 2021] (https://www.
 **Thoughts**: Back on the tutorials, this time we moved away from DartPad and onto VSCode, which is great because I am know understanding it in a coding environment. The topic is regardin advanced classes. So the meat and potatoes of how classes behave in Dart/Flutter.
 
 Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
+
+
+### Day 11: July 26, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Dart tutorials by Coding With Andrea
+
+**Thoughts**: Today was a serious case of the Mondays, plus a lot of outside distractions kept it hard to focus and concentrate. I did watch a video earlier today called 'Just Build It' by ForestKnight(https://www.youtube.com/watch?v=8L9Ls2gIHts). It was a video essay with advice on how to begin an app project. I'll make that my weekend focus since weekends I don't feel too constrained on time. I'll do better tomorrow.
+
+Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
