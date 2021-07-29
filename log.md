@@ -111,3 +111,23 @@ Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complet
 **Thoughts**: Today was a serious case of the Mondays, plus a lot of outside distractions kept it hard to focus and concentrate. I did watch a video earlier today called 'Just Build It' by ForestKnight(https://www.youtube.com/watch?v=8L9Ls2gIHts). It was a video essay with advice on how to begin an app project. I'll make that my weekend focus since weekends I don't feel too constrained on time. I'll do better tomorrow.
 
 Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
+
+
+### Day 12: July 27, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Dart tutorials by Coding With Andrea
+
+**Thoughts**: Worked through another tutorial of everything classes with Dart. Completed that section, I do plan on going back and doing some more classes practices. I should get a book, since it seems to help me graps to conecpt better for when I did this with Python.
+
+Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
+
+
+### Day 13: July 28, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Dart tutorials by Coding With Andrea
+
+**Thoughts**: This time was a mini project on creating an ecommerce site. That was seriously a lot to digest but it was cool with learning how each class talks to each other and how to have your main method produce all of the data from the classes.
+
+Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
