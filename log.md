@@ -141,3 +141,13 @@ Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complet
 **Thoughts**: Somewhat short section, learned about Mixins and Extensions for Dart. I spent like 20 minutes just playing around with initalizing classes and instantiating them in the main method. Still trying to grasp the concept of classes and all of the meat and potatoes of object-oriented programming. I was not fully there mentally since there were some outside distractions. But tomorrow's learning will be better than todays.
 
 Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
+
+
+### Day 15: July 30, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Dart tutorials by Coding With Andrea
+
+**Thoughts**: So excited, completed my first exercise without having drawing a blank. It felt great completing it, yes it was slightly different code then the solution, but got the same result! I am excited for starting tomorrow.
+
+Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
