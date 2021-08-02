@@ -151,3 +151,24 @@ Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complet
 **Thoughts**: So excited, completed my first exercise without having drawing a blank. It felt great completing it, yes it was slightly different code then the solution, but got the same result! I am excited for starting tomorrow.
 
 Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
+
+
+### Day 16: July 31, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Started my first Flutter project
+
+**Thoughts**: Unfortunatley I was very unsuccessful with my project. I had a lot of technical issues with VSCode not launching the test app, to both web browsers failing to load sites. I ended up troubleshooting than working on any code -____-
+
+Link to work: 
+
+
+### Day 17: Aug 01, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Dart tutorials by Coding With Andrea
+
+**Thoughts**: So I finished the rest of my troubleshooting. Turns out I had not only a BIOS update, but the 21H1 and a .NET OS update for my machine. Luckily I had a spare macbook that had VSCode and Flutter installed(but not XCode apparently). Oh well, today was a better day than yesterday, I'm almost dobe with the Dart tutorials for Coding with Andrea.
+
+Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
+
