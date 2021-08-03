@@ -172,3 +172,13 @@ Link to work:
 
 Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
 
+
+### Day 18: Aug 02, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Dart tutorials by Coding With Andrea
+
+**Thoughts**: Completed all of the video tutorials for Dart, super excited to begin the next 2 projects in the course and earn a Dart cert from Udemy. And after this, going to start on some projects!!
+
+Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
+
