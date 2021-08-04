@@ -182,3 +182,14 @@ Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complet
 
 Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complete-dart-guide/learn/lecture/22613218#overview)
 
+
+### Day 19: Aug 03, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Played around in VSCode while watching some Flutter basics on Google I/o
+
+**Thoughts**: It started with watching some really really remidial videos on youtube about Flutter(widgets), and I took it upon myself to create another project and kept it simple. By simple, its a basic app that has a list of plants I own. I have an idea on how I want it to look and feel so this will be my first true project. I began googling all types of widgets and how to call them in my code. Only created about 10 lines of code, but I am comprehending this a lot better now.
+
+Link to work: [Flutter.I/O] (https://flutter.dev/docs/reference/widgets) ,  [Flutter Widgets 101] (https://www.youtube.com/watch?v=wE7khGHVkYY)
+
+
