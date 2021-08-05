@@ -193,3 +193,13 @@ Link to work: [The Complete Dart Language] (https://www.udemy.com/course/complet
 Link to work: [Flutter.I/O] (https://flutter.dev/docs/reference/widgets) ,  [Flutter Widgets 101] (https://www.youtube.com/watch?v=wE7khGHVkYY)
 
 
+### Day 20: Aug 04, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Continued to work on my test app in VSCode
+
+**Thoughts**: Began playing around with Stateless Widgets and add building widgets inside each other and figuring out when to place a new child widget vs children, and proper syntax for each widget. Defintley helping because I am envisioning what I want my app to do, and researching how to bring it to life. 
+
+Link to work: [Flutter.I/O] (https://flutter.dev/docs/reference/widgets) ,  [Flutter Widgets 101] (https://www.youtube.com/watch?v=wE7khGHVkYY)
+
+
