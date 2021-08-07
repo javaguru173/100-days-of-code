@@ -203,3 +203,23 @@ Link to work: [Flutter.I/O] (https://flutter.dev/docs/reference/widgets) ,  [Flu
 Link to work: [Flutter.I/O] (https://flutter.dev/docs/reference/widgets) ,  [Flutter Widgets 101] (https://www.youtube.com/watch?v=wE7khGHVkYY)
 
 
+### Day 22: Aug 05, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Learning Widgets tutorials!
+
+**Thoughts**: Found the official Flutter website, because I felt lost previously with understanding widgets and when to place child/children widgets. 
+
+Link to work: [Flutter UI] (https://flutter.dev/docs/development/ui/layout/tutorial)
+
+
+### Day 23: Aug 06, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Continued widgets tutorial
+
+**Thoughts**: Continued with learning widgets in the most basic level. I think I will get a Flutter book, reading is so much easier to comprehend then watching videos
+
+Link to work: [Flutter UI] (https://flutter.dev/docs/development/ui/layout/tutorial)
+
+
