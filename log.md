@@ -223,3 +223,23 @@ Link to work: [Flutter UI] (https://flutter.dev/docs/development/ui/layout/tutor
 Link to work: [Flutter UI] (https://flutter.dev/docs/development/ui/layout/tutorial)
 
 
+### Day 24: Aug 07, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Continued widgets ui tutorial
+
+**Thoughts**: Worked on the second half of the basic ui tutorial for Flutter. So far this has been a great help at finding out how to start a project and vizualize each region of an app.
+
+Link to work: [Flutter UI] (https://flutter.dev/docs/development/ui/layout/tutorial)
+
+
+### Day 24: Aug 08, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Started a new Flutter project!
+
+**Thoughts**: I felt lost since I do not know exactly where to start. I keep hearing, ". . . your next step on start a project!". Ok, but how? I feel a lot of these sites give a command but not a how to go with it. I guess this is apart of the experience when learning about coding and whatnot.
+
+Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
+
+
