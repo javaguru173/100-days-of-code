@@ -243,3 +243,13 @@ Link to work: [Flutter UI] (https://flutter.dev/docs/development/ui/layout/tutor
 Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
 
 
+### Day 25: Aug 09, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Continued the StartUp Name project
+
+**Thoughts**: I first started troubleshoting my VSCode since I am still unable to launch apps within an Android emulator. I also need to install an iOS one as well. I think tomorrow I'll take a swing at that. I did try some of the suggestions I read on StackOverflow. After some attempts, no luck. I did continue the name generator project.
+
+Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
+
+
