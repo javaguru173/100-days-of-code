@@ -253,3 +253,11 @@ Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
 Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
 
 
+### Day 26: Aug 10, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Experimented with the FloatingActionButton
+
+**Thoughts**: So I completed the tutorial, now I am playing around with the code. I found a section in my code block that I wanted to work on, which was the second page that showed the list of names that the user selected. I began researching on what FAB can and cannot do and how to customize it.
+
+Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
