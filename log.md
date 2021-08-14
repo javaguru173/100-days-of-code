@@ -261,3 +261,42 @@ Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
 **Thoughts**: So I completed the tutorial, now I am playing around with the code. I found a section in my code block that I wanted to work on, which was the second page that showed the list of names that the user selected. I began researching on what FAB can and cannot do and how to customize it.
 
 Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
+
+
+### Day 27: Aug 11, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Experimented with the FloatingActionButton
+
+**Thoughts**: Continued working with FloatingActionButtons and trying to get the app to display a message when a button is pressed instead of adding to a counter.
+
+Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
+
+
+### Day 28: Aug 12, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Began working on my first project app
+
+**Thoughts**: I used what I learned about a floatingActionButton and slowly began to make pseudo-code for my app. I think it's best to start working on each "screen" one at a time.
+Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
+
+
+### Day 29: Aug 13, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Worked on Classes
+
+**Thoughts**: I decided to go back to DartPad and work on understanding classes and calling that into my main method.
+
+Link to work: [Flutter DartPad] (https://dartpad.dev/?null_safety=true)
+
+
+### Day 30: Aug 14, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Worked on login page for app
+
+**Thoughts**: I found a website that shows me how to construct a login page. I know for my first app its going to be a simple plant collection that saves user data based off their login credentials. But I'm feeling pretty demotiavted today, idk if it's the heat or other stuff. I just can't seem to focus and concentrate on this right now.
+
+Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
