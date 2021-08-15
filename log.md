@@ -300,3 +300,13 @@ Link to work: [Flutter DartPad] (https://dartpad.dev/?null_safety=true)
 **Thoughts**: I found a website that shows me how to construct a login page. I know for my first app its going to be a simple plant collection that saves user data based off their login credentials. But I'm feeling pretty demotiavted today, idk if it's the heat or other stuff. I just can't seem to focus and concentrate on this right now.
 
 Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
+
+
+### Day 31: Aug 15, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Worked on login page for app
+
+**Thoughts**: Definitley have more motivation today. I was slowly working on the email/password classes this afternoon. I am getting the hang of understanding the widgets of Dart/Flutter.
+
+Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutter/#defining-our-assets)
