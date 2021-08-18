@@ -310,3 +310,23 @@ Link to work: [Flutter Codelab] (https://flutter.dev/docs/get-started/codelab)
 **Thoughts**: Definitley have more motivation today. I was slowly working on the email/password classes this afternoon. I am getting the hang of understanding the widgets of Dart/Flutter.
 
 Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutter/#defining-our-assets)
+
+
+### Day 32: Aug 16, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Worked on login page for app
+
+**Thoughts**: Completed the basic landing page for the app. Played around with the colors and the fonts, lastly I added the fonts and colors that I wanted to reflect the app.
+
+Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutter/#defining-our-assets)
+
+
+### Day 33: Aug 17, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Worked on login page for app
+
+**Thoughts**: Made some good progress on my plant collection app. I figured out how to adjust the size of the "login" button, also added a "signup" button as well. I did change the logo to reflect the theme of the plant app. Finally, I added some pseudo code for tomorrow with a couple things to do with regards to what I want each button to do. I think I will work on the signup page tomorrow.
+
+Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutter/#defining-our-assets)
