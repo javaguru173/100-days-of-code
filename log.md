@@ -330,3 +330,23 @@ Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutt
 **Thoughts**: Made some good progress on my plant collection app. I figured out how to adjust the size of the "login" button, also added a "signup" button as well. I did change the logo to reflect the theme of the plant app. Finally, I added some pseudo code for tomorrow with a couple things to do with regards to what I want each button to do. I think I will work on the signup page tomorrow.
 
 Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutter/#defining-our-assets)
+
+
+### Day 34: Aug 18, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Worked on login page for app
+
+**Thoughts**: I began writing some pseudo-code for my signup page and also made some tweaks in my code to see what fields I want to change and adjust.
+
+Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutter/#defining-our-assets)
+
+
+### Day 34: Aug 19, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Finished my signup page!!!!
+
+**Thoughts**: So the goal was to create a signup page and then have the front/login page jump to that when a user taps/clicks "Sign Up". And a HUGE success!!! I even added a back button to return users back to the login screen. Omg so satisfying
+
+Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
