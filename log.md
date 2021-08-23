@@ -350,3 +350,33 @@ Link to work: [Flutter UI Tutorial] (https://pusher.com/tutorials/login-ui-flutt
 **Thoughts**: So the goal was to create a signup page and then have the front/login page jump to that when a user taps/clicks "Sign Up". And a HUGE success!!! I even added a back button to return users back to the login screen. Omg so satisfying
 
 Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
+
+
+### Day 35: Aug 20, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Debugged and customized
+
+**Thoughts**: Began adding some customization to my login and signup page of the app.
+
+Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
+
+
+### Day 36: Aug 21, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Began work on the settings page of my app
+
+**Thoughts**: Started to build out the account settings page. Worked on building out the front/splash page. I began following a tutorial on designing a settings page. We'll see how this goes
+
+Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
+
+
+### Day 37: Aug 22, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Debugged the profile/settings page
+
+**Thoughts**: Began debugging the account profile page of my app. Its hard to concentrate today because I'm having back spasms and difficult today.
+
+Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
