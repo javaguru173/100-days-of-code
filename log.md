@@ -380,3 +380,13 @@ Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Nav
 **Thoughts**: Began debugging the account profile page of my app. Its hard to concentrate today because I'm having back spasms and difficult today.
 
 Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
+
+
+### Day 38: Aug 23, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Began working on the "main" page of my app
+
+**Thoughts**: I combed through my code and worked on labeling each block to make it easier for me to navigate each block when working on a specific section. After that, I began to work on the collection page. I didn't have success with BottomNavBar tutorial, so tomorrow I will undo that and go with what I know and use Routes/Navigator. Good thing is that I got the LoginButton to push to the main/collection page =]
+
+Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
