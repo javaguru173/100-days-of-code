@@ -390,3 +390,13 @@ Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Nav
 **Thoughts**: I combed through my code and worked on labeling each block to make it easier for me to navigate each block when working on a specific section. After that, I began to work on the collection page. I didn't have success with BottomNavBar tutorial, so tomorrow I will undo that and go with what I know and use Routes/Navigator. Good thing is that I got the LoginButton to push to the main/collection page =]
 
 Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
+
+
+### Day 39: Aug 24, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Continued work on the "main" page of my app
+
+**Thoughts**: I tried using a BottomNavBar method to have a faster way of switching between screens, but that didn't work. For some reason, the app won't launch if I try to implement that method. I then went back to what I know and use onPressed, and no luck either =/   Maybe Flutter only likes one Navigator per app?
+
+Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
