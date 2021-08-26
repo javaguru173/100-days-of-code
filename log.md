@@ -400,3 +400,13 @@ Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Nav
 **Thoughts**: I tried using a BottomNavBar method to have a faster way of switching between screens, but that didn't work. For some reason, the app won't launch if I try to implement that method. I then went back to what I know and use onPressed, and no luck either =/   Maybe Flutter only likes one Navigator per app?
 
 Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Navigator-class.html)
+
+
+### Day 40: Aug 25, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Continued work on the "main" page of my app
+
+**Thoughts**: Still no luck with getting interation between my main page and setting page. I ended up posting my issue in StackOverflow. I did create a Google Play Developer account though =]
+
+Link to work: 
