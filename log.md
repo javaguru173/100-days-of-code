@@ -410,3 +410,13 @@ Link to work: [Flutter UI Tutorial] (https://api.flutter.dev/flutter/widgets/Nav
 **Thoughts**: Still no luck with getting interation between my main page and setting page. I ended up posting my issue in StackOverflow. I did create a Google Play Developer account though =]
 
 Link to work: 
+
+
+### Day 41: Aug 26, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Debugged Settings page
+
+**Thoughts**: Ok, so in order for my app to run with the Navigator.push()... I need to figure out the Null Safety for my app.  I was able to get it to run with the command: flutter run --no-sound-null-safety, which afterward the app launchs(yay). Now the tricky part is figuring out how to resolve the unhandled exception. I did reach out to respond back to my StackOverflow post in hopes to find a solution.
+
+Link to work: [Stack Overflow) (https://stackoverflow.com/questions/68931359/app-wont-launch-with-navigator-push-in-flutter)
