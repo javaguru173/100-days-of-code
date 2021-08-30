@@ -420,3 +420,43 @@ Link to work:
 **Thoughts**: Ok, so in order for my app to run with the Navigator.push()... I need to figure out the Null Safety for my app.  I was able to get it to run with the command: flutter run --no-sound-null-safety, which afterward the app launchs(yay). Now the tricky part is figuring out how to resolve the unhandled exception. I did reach out to respond back to my StackOverflow post in hopes to find a solution.
 
 Link to work: [Stack Overflow) (https://stackoverflow.com/questions/68931359/app-wont-launch-with-navigator-push-in-flutter)
+
+
+### Day 42: Aug 27, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Debugged Settings page
+
+**Thoughts**: Began researching on what I want my app to display the items. I found a few and began watching some tutorials on how to design them using the featuures.
+
+Link to work: [Pub.Dev/Multi Select] (https://pub.dev/packages/multi_select_flutter)
+
+
+### Day 43: Aug 28, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Rebuilt Collections Page
+
+**Thoughts**: Created a new file and labeled it PlantList, this will be the page that holds all of the user's plants they currently have in their session
+
+Link to work: [Pub.Dev/Multi Select] (https://pub.dev/packages/multi_select_flutter)
+
+
+### Day 44: Aug 29, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Continuted Updating My Collections Page
+
+**Thoughts**: So much typing, so sleepy as well
+
+Link to work: [Pub.Dev/Multi Select] (https://pub.dev/packages/multi_select_flutter)
+
+
+### Day 45: Aug 30, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Bug Fixes
+
+**Thoughts**: So I gutted my settings and account page of my app, that was the culprit in preventing me from successfully launching without null safety. I will have to rebuild my settings page from the ground up, but I will probably do that one last now.
+
+Link to work: [Stack Overflow) (https://stackoverflow.com/questions/68931359/app-wont-launch-with-navigator-push-in-flutter)
