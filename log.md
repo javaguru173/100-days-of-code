@@ -460,3 +460,13 @@ Link to work: [Pub.Dev/Multi Select] (https://pub.dev/packages/multi_select_flut
 **Thoughts**: So I gutted my settings and account page of my app, that was the culprit in preventing me from successfully launching without null safety. I will have to rebuild my settings page from the ground up, but I will probably do that one last now.
 
 Link to work: [Stack Overflow) (https://stackoverflow.com/questions/68931359/app-wont-launch-with-navigator-push-in-flutter)
+
+
+### Day 46: Aug 31, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Clerical Work/Research
+
+**Thoughts**: I really didn't get to do any coding today, the pain from my back injury has been very disruptive for me. Instead, I created a Dropbox account and began backing up my Flutter_dev folder. I also began watching some videos on "day in the life of an x", just to get an understanding of being a programmer. I also watched some video interviews of individuals who either dropped out of college or didn't attend college, share their success of them landing a programming job. I'll be in a better mindset tomorrow.
+
+Link to work: [College Dropout Making $500K as a Software Engineerw] (https://www.youtube.com/watch?v=_aJ_EV9i0eA)
