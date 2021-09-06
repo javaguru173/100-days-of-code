@@ -470,3 +470,13 @@ Link to work: [Stack Overflow) (https://stackoverflow.com/questions/68931359/app
 **Thoughts**: I really didn't get to do any coding today, the pain from my back injury has been very disruptive for me. Instead, I created a Dropbox account and began backing up my Flutter_dev folder. I also began watching some videos on "day in the life of an x", just to get an understanding of being a programmer. I also watched some video interviews of individuals who either dropped out of college or didn't attend college, share their success of them landing a programming job. I'll be in a better mindset tomorrow.
 
 Link to work: [College Dropout Making $500K as a Software Engineerw] (https://www.youtube.com/watch?v=_aJ_EV9i0eA)
+
+
+### Day 47-51: Sept 1 - 5, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Worked on Settings Page
+
+**Thoughts**: Lately I've been drifing when working on my daily coding. My mind is kind of bouncing around and hard to focus on one single thing. I managed to get some lines of code completed for my app's setting page. But right now, I just can't seem to focus. There's a lot of outside noise that's affecting my attention and motivation right now.
+
+Link to work: [] ()
