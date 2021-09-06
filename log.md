@@ -480,3 +480,13 @@ Link to work: [College Dropout Making $500K as a Software Engineerw] (https://ww
 **Thoughts**: Lately I've been drifing when working on my daily coding. My mind is kind of bouncing around and hard to focus on one single thing. I managed to get some lines of code completed for my app's setting page. But right now, I just can't seem to focus. There's a lot of outside noise that's affecting my attention and motivation right now.
 
 Link to work: [] ()
+
+
+### Day 52: Sept 6, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Working on my Plant app
+
+**Thoughts**: I figured out that I rarely have success with tutorials/how-tos from youtube, yes they're a great reference, but rarely do I have an success replicating their results. Any who, I am pulling everything from Flutter's official site. I found a method of how to create a plant list page and that's a newfound motivation to complete my app. This has been a long process, but I'm figuring out how I overcome problems in my work. I do start school in a couple weeks, not looking forward to that, but it is something I ned to complete in order to move up socioeconomically.
+
+Link to work: [] ()
