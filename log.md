@@ -490,3 +490,13 @@ Link to work: [] ()
 **Thoughts**: I figured out that I rarely have success with tutorials/how-tos from youtube, yes they're a great reference, but rarely do I have an success replicating their results. Any who, I am pulling everything from Flutter's official site. I found a method of how to create a plant list page and that's a newfound motivation to complete my app. This has been a long process, but I'm figuring out how I overcome problems in my work. I do start school in a couple weeks, not looking forward to that, but it is something I ned to complete in order to move up socioeconomically.
 
 Link to work: [] ()
+
+
+### Day 53: Sept 7, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Working on my Plant app
+
+**Thoughts**: I continued working on the plant list and my settings page. For some reason I am having an issue with getting content to display on my settings page outside of a bottom nav bar ugh!!! Oh well, more progress is better then no progress
+
+Link to work: [] ()
