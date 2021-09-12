@@ -500,3 +500,13 @@ Link to work: [] ()
 **Thoughts**: I continued working on the plant list and my settings page. For some reason I am having an issue with getting content to display on my settings page outside of a bottom nav bar ugh!!! Oh well, more progress is better then no progress
 
 Link to work: [] ()
+
+
+### Day 54-57: Sept 8-11, 2021
+##### (intentionally left blank)
+
+**Today's Progress** : Resumed Working on my Plant app
+
+**Thoughts**: I feel I am in the middle of a programmers version of a writer's block. I'm stuck with wanting and knowing what to do with my app. I don't know why my settings page is not displaying anything besides the title bar. I can't continue to add plants to the plant list. I know I need to find a way for that page to dynamically list house plants without me manually adding them. I need to add a dark mode switch, and also add a way to authenticate/enroll users using Google. Ugh, I hate being stuck without a clear outline of what needs to be done.
+
+Link to work: [] ()
